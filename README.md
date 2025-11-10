@@ -2,6 +2,7 @@
 
 # MOUILLON  
 *A passionate Digital Consultant and Data Scientist*
+J'ai travaillé sur des projets complexes que vous pouvez trouver dans mon portfolio : organisation, digitalisation et transformation, création d'une Edtech et aujourd'hui projets de datascience
 
 ---
 
