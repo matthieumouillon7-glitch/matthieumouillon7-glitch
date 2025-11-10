@@ -2,8 +2,7 @@
 
 <!--
 
-{
-  "version": "1.0.0",
+ "version": "1.0.0",
   "exportedAt": "2025-11-10T08:51:43.902Z",
   "profile": {
     "title": "MOUILLON",
