@@ -1,30 +1,33 @@
 ## Hi there 👋
 
-# Matthieu MOUILLON  
-*A passionate Digital Consultant and Data Scientist*
-J'ai travaillé sur des projets complexes que vous pouvez trouver dans mon portfolio : organisation, digitalisation et transformation, création d'une Edtech et aujourd'hui projets de datascience
-
+### A passionate Digital Consultant and Data Scientist*
 ---
+Greetings!  My name is Matthieu, and I'm excited to share my still developing data engineer portfolio. 
+
+Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 
 ### 💼 About me
+I am a head of project and data analyst turned into a **data scientist🐍**
+During my career I had several roles : 
+- Project management as a founder and a consultant
+- Analyze data and implement IT systems🤖
+- Teach mainly management at school 👨‍🏫!
 
----
-Hi My name is Matthieu,
-I am a head of project **AND** a data scientist🐍
-In my previous roles is used to work on multiple projects mainly with People 😁and IT🤖. My role was to manage project⚙️, process and people. I even was a teacher in management at school 👨‍🏫!
-During my career I was more and more involved in data management 📊🖥️and HRIS tools. I worked for every sector under the sun : Government, Insurance, Retail and Industry. I even created a B to C startup in elearning.🚀🧑‍🚀
-That is how I felt in love 💗with tech and data.
-I believe that, my strengths as a project manager rely both, **on my technical expertise** and my **interpersonal and business skills.
+I worked for every sector under the sun : Government, Insurance, Retail and Industry. I even created a B2C startup in elearning.🚀🧑‍🚀
 
-Connect on [LinkedIn] : (https://www.linkedin.com/in/matthieu-mouillon/).
-
+### That is how I felt in love 💗with tech and data
+I followed le Wagon Bootcamp for 9 intensive [weeks in data sience and IA]([url](https://www.lewagon.com/fr/data-science-course))
 
 ### 🔗 Useful links
 - [Portfolio](https://drive.google.com/drive/folders/1oE5kreDqci_MGAhVXBxNhUpdCczo2f4D)
 - [Blog](https://www.human-station.com)
 - Email : matthieumouillon7@gmail.com
 
----
+### About my actions💥 
+- Collecting and cleaning the data
+-	Using data analytics and visualisation technics
+-	Creating predictive model with machine learning and deep learning libraries
+-	Managing the environment : server, google cloud plateform, API and dockers
 
 ### 🛠️ Skills
 `bash` &nbsp; `bootstrap` &nbsp; `docker` &nbsp; `fastapi` &nbsp; `figma` &nbsp;  
