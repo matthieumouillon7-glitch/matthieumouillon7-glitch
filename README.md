@@ -44,6 +44,8 @@ I followed le Wagon Bootcamp for 9 intensive [weeks in data sience and IA]([url]
 - Kaggle : [matthieumouiilon](https://www.kaggle.com/matthieumouiilon)
 
 ---
+### 🪄 My Portfolio
+- Data analysis : [[matthieumouillon7-glitch](https://github.com/matthieumouillon7-glitch](https://github.com/matthieumouillon7-glitch/portfolio))
 
 <!--
 Ton json profil ici pour exporter des données, ne pas afficher sur le README
