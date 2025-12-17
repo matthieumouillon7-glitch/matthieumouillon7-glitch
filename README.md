@@ -20,7 +20,8 @@ I followed le Wagon Bootcamp for 9 intensive [weeks in data sience and IA]([url]
 
 ---
 ### 🪄 Github - Selected Portfolio
-- Data analysis : [[matthieumouillon7-glitch](https://github.com/matthieumouillon7-glitch/portfolio)
+In this Portfolio you can find a selection of projects and trainings
+- Data analysis : [[GITHUB PORTFOLIO](https://github.com/matthieumouillon7-glitch/portfolio)
 
 
 ### 🔗 Useful links
