@@ -18,6 +18,11 @@ I worked for every sector under the sun : Government, Insurance, Retail and Indu
 ### That is how I felt in love 💗with tech and data
 I followed le Wagon Bootcamp for 9 intensive [weeks in data sience and IA]([url](https://www.lewagon.com/fr/data-science-course))
 
+---
+### 🪄 Github - Selected Portfolio
+- Data analysis : [[matthieumouillon7-glitch](https://github.com/matthieumouillon7-glitch/portfolio)
+
+
 ### 🔗 Useful links
 - [Portfolio](https://drive.google.com/drive/folders/1oE5kreDqci_MGAhVXBxNhUpdCczo2f4D)
 - [Blog](https://www.human-station.com)
@@ -42,10 +47,6 @@ I followed le Wagon Bootcamp for 9 intensive [weeks in data sience and IA]([url]
 - GitHub : [matthieumouillon7-glitch](https://github.com/matthieumouillon7-glitch)
 - LinkedIn : [matthieu-mouillon](https://www.linkedin.com/in/matthieu-mouillon/)
 - Kaggle : [matthieumouiilon](https://www.kaggle.com/matthieumouiilon)
-
----
-### 🪄 My Portfolio
-- Data analysis : [[matthieumouillon7-glitch](https://github.com/matthieumouillon7-glitch/portfolio)
 
 <!--
 Ton json profil ici pour exporter des données, ne pas afficher sur le README
